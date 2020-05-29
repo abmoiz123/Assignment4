@@ -2,6 +2,10 @@ body {
     background-color: #D7CEC7 !important;
     color: #76323F !important;
 }
+.container {
+    margin-top: 25%%;
+    margin-left: 25%;
+}
 .fa-check-circle {
     font-size: 300px !important;
     color: #76323F;
